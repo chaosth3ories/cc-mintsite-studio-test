@@ -7,7 +7,7 @@
 /* Content Header */
 
 .h1, .h2 {
-  position: center-aligned;
+  text-align: center;
   }
 
 .h1 {

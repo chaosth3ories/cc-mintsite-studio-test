@@ -40,7 +40,7 @@
   font-weight: 700;
 }
 
-button {
+.button {
   height: 50px;
   width: 200px;
   display: flex;
@@ -51,15 +51,9 @@ button {
 }
 
 
-.button:hover {
-  background-color: #513ff5;
-  transition: background-color .15s, font-size .15s;
-  font-size: 18px;
-}
-
-
 .button:active {
   border-color: #513ff5;
+  border-radius: 4px;
 }
 
 .p {

@@ -8,11 +8,6 @@
 
 /* Content Header */
 
-.header {
-  background-position: center;
-  background-size: cover;
-}
-
 .header h1 {
   background-color: black;
   color: #FFF;
@@ -21,6 +16,8 @@
   font-weight: 300;
   line-height: 40px;
   width: 68%;
+  background-position: center;
+
 }
 
 .header h2 {
@@ -31,12 +28,7 @@
   font-weight: 300;
   line-height: 40px;
   width: 68%;
-}
-/* Content Body */
-
-.content .body {
-  width: 90%;
-}
+  background-position: center;
 
 
 /* Content Button */

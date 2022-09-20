@@ -42,6 +42,8 @@
   justify-content: center;
   cursor: pointer;
   font-weight: 500;
+  margin: auto;
+
 }
 
 .button {
@@ -49,12 +51,15 @@
   color: white;
   border: 2px solid purple;
   border-radius: 10px;
+  margin: auto;
 }
 
 .button:hover {
   background-color: purple;
   transition: background-color .15s, font-size .15s;
   font-size: 18px;
+  margin: auto;
+
 }
 
 .button:active {

@@ -9,7 +9,7 @@
 
 .h1 {
   background-color: black;
-  color: #FFF;
+  color: black;
   font-family: 'Oswald', sans-serif;
   font-size: 60px;
   font-weight: 300;
@@ -21,7 +21,7 @@
 
 .h2 {
   background-color: black;
-  color: #FFF;
+  color: black;
   font-family: 'Oswald', sans-serif;
   font-size: 40px;
   font-weight: 300;
@@ -36,7 +36,7 @@
 
 button {
   border-radius: 4px;
-  color: #513ff5;
+  color: purple;
   display: block;
   font-weight: 700;
   text-align: center;  

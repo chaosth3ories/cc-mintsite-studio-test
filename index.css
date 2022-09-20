@@ -1,0 +1,64 @@
+/* Universal Styles */
+
+* {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  background-color: #333333;
+}
+
+/* Content Header */
+
+.header {
+  background-position: center;
+  background-size: cover;
+}
+
+.header h1 {
+  background-color: black;
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 40px;
+  width: 68%;
+}
+
+.header h2 {
+  background-color: black;
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 40px;
+  width: 68%;
+}
+/* Content Body */
+
+.content .body {
+  width: 90%;
+}
+
+
+/* Content Button */
+
+.button {
+  border-radius: 4px;
+  color: #513ff5;
+  display: block;
+  font-weight: 700;
+}
+
+
+.button:hover {
+  background-color: #513ff5;
+  transition: background-color .15s, font-size .15s;
+  font-size: 18px;
+}
+
+.button:active {
+  border-color: #513ff5;
+}
+
+.p {
+  color: rgb(203, 199, 199);
+}

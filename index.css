@@ -50,11 +50,12 @@ button {
   justify-content: center;
   cursor: pointer;
   font-weight: 500;
+  color: purple;
 }
 
 
 button:active {
-  border-color: #513ff5;
+  color: purple;
   border-radius: 4px;
   text-align: center;  
 }

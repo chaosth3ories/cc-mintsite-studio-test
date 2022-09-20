@@ -34,21 +34,31 @@
 
 /* Content Button */
 
-button {
+.button {
   height: 50px;
   width: 200px;
   display: flex;
-  text-align: center;  
+  align-items: center;
   justify-content: center;
   cursor: pointer;
   font-weight: 500;
-  color: purple;
 }
 
-
-button:active {
+.button {
+  background-color: #1D1;
   color: purple;
-  border-radius: 4px;
-  text-align: center;  
+  border: 2px solid #12dd23;
+  border-radius: 10px;
 }
+
+.button:hover {
+  background-color: purple;
+  transition: background-color .15s, font-size .15s;
+  font-size: 18px;
+}
+
+.button:active {
+  border-color: purple;
+}
+
 

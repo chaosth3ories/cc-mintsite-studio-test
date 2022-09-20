@@ -43,6 +43,7 @@
   cursor: pointer;
   font-weight: 500;
   margin: auto;
+  line-height: 1em;
 
 }
 
@@ -52,6 +53,7 @@
   border: 2px solid purple;
   border-radius: 10px;
   margin: auto;
+  line-height: 1em;
 }
 
 .button:hover {
@@ -59,6 +61,7 @@
   transition: background-color .15s, font-size .15s;
   font-size: 18px;
   margin: auto;
+  line-height: 1em;
 
 }
 

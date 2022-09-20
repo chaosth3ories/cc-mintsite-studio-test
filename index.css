@@ -6,6 +6,10 @@
 
 /* Content Header */
 
+.h1, .h2 {
+  position: center-aligned;
+  }
+
 .h1 {
   background-color: black;
   color: #FFF;
